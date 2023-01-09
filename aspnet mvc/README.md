@@ -61,10 +61,12 @@ _<link> Curso: https://www.udemy.com/course/aprende-aspnet-core-mvc-haciendo-pro
 >   Es una librería que nos hace la vida más fácil a la hora de desarrollar webapps. Contiene un conjunto de estilos y funcionalidades que podemos utilizar.
 >
 >   - Contenedores
->   Nos permiten centralizar el contenido, por ejemplo, de un `div`. Siempre condicionado por la pantalla del dispositivo donde visualizamos nuestra página web. _continuar en video 17 de contenedores min 05:49_
+>   Nos permiten centralizar el contenido, por ejemplo, de un `div`. Siempre condicionado por la pantalla del dispositivo donde visualizamos nuestra página web.
 >
 >   - Sistema Grid
->   
+>   Sistema de filas y columnas para organizar nuestros elementos de interfaz de usuario.
+>
+>   _continuar en video 18 de Sistema Grid min 05:28_
 >
 >   - Columnas
 >   
